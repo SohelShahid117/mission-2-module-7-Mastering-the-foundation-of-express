@@ -1,4 +1,5 @@
 //7-4 Event driven architecture, create your own events
+//7-4 Event driven architecture, create your own events
 const eventEmitter = require("events")
 // console.log(eventEmitter);
 const myEmitter = new eventEmitter();
